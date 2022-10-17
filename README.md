@@ -1,6 +1,8 @@
 **Sams Teach Yourself C in 24 Hours**
 
-This is a repository that contains projects coded using C for step-by-step learning of the language's fundamentals. The directories are chapters in the book and contain the codes for the specific chapters
+This is a repository that contains projects coded using C for step-by-step learning of the language's fundamentals.
+
+**Chapters**
 
 - `Introduction`
 - `Part I: The Basics of C`
